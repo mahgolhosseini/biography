@@ -14,7 +14,4 @@ A simple personal biography website to showcase my skills, education, and backgr
 - CSS3 (Flexbox, Grid)
 
 ## 🌐 Live Demo
-
-
-## 📂 Installation & Usage
-1. Clone the repository:
+https://mahgolhosseini.github.io/biography/
